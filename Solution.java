@@ -1,4 +1,4 @@
-public class Solution{
+public class PestoTechSolution{
 	public static int climbStairs(int n)
 	{
 		if(n==1) return 1;
